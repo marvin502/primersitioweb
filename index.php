@@ -24,7 +24,7 @@
             </div>
             <div class="cont-menu active" id="menu">
                 <ul>
-                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="index.php">HOME</a></li>
                     <li><a href="datospersonales.html">DatosPersonales</a></li>
                     <li><a href="experiencialaboral.html">ExperienciaLaboral</a></li>
                 </ul>
